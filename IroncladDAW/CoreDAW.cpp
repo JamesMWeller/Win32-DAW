@@ -16,6 +16,18 @@ HINSTANCE hInst;
 // window procedure
 LRESULT CALLBACK WndProc(HWND, UINT, WPARAM, LPARAM);
 
+/*
+	TO - DO
+
+1. Windows contained within main window
+2. Output channels
+3. Synth Plugin/Contained window
+4. Envelop Plugin
+5. Piano Window
+6. 
+p
+*/
+
 int WINAPI WinMain(
 	_In_ HINSTANCE			hInstance,
 	_In_opt_ HINSTANCE		hPrevInstance,
